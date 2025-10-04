@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahd Belhadj Maaouia</h1>
-<h3 align="center">a 21-year-old Tunisian student, hustler, and dreamer. I've explored many things in life before taking a bold leap into Computer Science. Plot twist? Maybe. Worth it? Definitely. I'm currently studying at the Private Higher School of Engineering and Technology (ESPRIT), where I'm soaking up everything I can about tech and innovation.
+<p align="center">a 21-year-old Tunisian student, hustler, and dreamer. I've explored many things in life before taking a bold leap into Computer Science. Plot twist? Maybe. Worth it? Definitely. I'm currently studying at the Private Higher School of Engineering and Technology (ESPRIT), where I'm soaking up everything I can about tech and innovation.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahd-belhadj-maaouia&label=Profile%20views&color=0e75b6&style=flat" alt="fahd-belhadj-maaouia" /> </p>
 
